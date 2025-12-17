@@ -1,8 +1,5 @@
 # US Oil Market & GDP Econometric Analysis
 
-[![R](https://img.shields.io/badge/R-%3E%3D4.0-blue.svg)](https://www.r-project.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 An econometric study analyzing the dynamic relationships between US GDP, WTI oil prices, and US oil production using time series analysis techniques including ARMA modeling, VAR estimation, Granger causality tests, and cointegration analysis.
 
 ## 📋 Table of Contents
