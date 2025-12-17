@@ -226,7 +226,7 @@ Engle-Granger two-step procedure:
 us-oil-gdp-econometrics/
 │
 ├── README.md                              # This file
-├── econometrics_analysis.R                # Main R script
+├── Project.R                # Main R script
 │
 ├── data/
 │   ├── Prix WTI mensuels.xls             # Raw monthly WTI prices
@@ -278,22 +278,7 @@ us-oil-gdp-econometrics/
 - Hamilton, J. D. (1994). *Time Series Analysis*. Princeton University Press.
 - Lütkepohl, H. (2005). *New Introduction to Multiple Time Series Analysis*. Springer.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👤 Author
 
 **Yanis Calvo**  
-Paris Dauphine University - BFA2  
-Course: Time Series Econometrics (2025-2026)
 
-## 🙏 Acknowledgments
-
-- Course instructors: Mme Chloé Derouen and Mme Sixtine Bigot
-- Data providers: Federal Reserve Economic Data (FRED), US Energy Information Administration (EIA)
-- PricewaterhouseCoopers & American Petroleum Institute for economic context
-
----
-
-*For questions or issues, please open an issue on GitHub.*
