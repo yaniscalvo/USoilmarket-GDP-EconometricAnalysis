@@ -275,7 +275,7 @@ us-oil-gdp-econometrics/
 - Hamilton, J. D. (1994). *Time Series Analysis*. Princeton University Press.
 - Lütkepohl, H. (2005). *New Introduction to Multiple Time Series Analysis*. Springer.
 
-The detailed project report is available in 
+The detailed project report is available in https://github.com/yaniscalvo/USoilmarket-GDP-EconometricAnalysis/blob/main/Project_report.pdf
 
 ## 👤 Author
 
